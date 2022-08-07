@@ -104,7 +104,7 @@ To create a PR and link your task/issue, follow the steps:
     ![scr14](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(62)_LI.jpg)
 
 * Make sure the following are correct:
-    * a => the main repository you cloned from (zuri-training/team18_cms_frontend)
+    * a => the main repository you cloned from (i.e https://github.com/EmmanuelHillary/Bluelancer-Frontend.git)
     * b => the 'main' branch of the main repository you cloned from 
     * c => your own forked repository
     * d => the 'main' branch of your owned forked repository
