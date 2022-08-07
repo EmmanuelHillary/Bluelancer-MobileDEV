@@ -120,4 +120,15 @@ And there you have it. You have successfully added your contribution <br/>
 Kindly notify the team lead or any other administrative member to review </br>
 and merge your Pull Request.</br>
 
+### Updating your forked repo
+When pending changes has been made to the main repo from which you forked
 
+![scr14](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(68)_LI.jpg)
+
+follow the steps below to update your forked repo:
+   1. Click on Sync fork
+   2. Click Update branch
+   
+   ![scr14](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(65)_LI.jpg)
+   ![scr14](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(66)_LI.jpg)
+   ![scr14](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(67)_LI.jpg)
